@@ -1,5 +1,7 @@
 # parkjongseung
 ![header](https://capsule-render.vercel.app/api?type=rect&height=300&text=인공지능%20신호등&fontAlign=30&stroke=00FF00&strokeWidth=2)
+---
+MIT license
 
 # 목차
 
